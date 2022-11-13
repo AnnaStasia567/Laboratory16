@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+D:\Інформатика\C++\lab16\MyForm.h(212,29): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  lab16.vcxproj -> D:\Інформатика\C++\lab16\x64\Release\lab16.exe
